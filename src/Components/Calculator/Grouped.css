@@ -1,0 +1,10 @@
+.grouped {
+  width: 340px;
+  height: 480px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 35%;
+  align-items: center;
+  /* background-color: #df2c1f; */
+  background-image: linear-gradient(315deg, #0672e6 0%, #e1e6eb 74%);
+}
